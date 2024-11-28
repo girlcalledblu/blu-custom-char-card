@@ -12,4 +12,4 @@ Want to pair this with Tat's amazing SimpleInventory plugin? Code is available f
 I have also added the dot-coloring for both char card and char profile. If you don't want to color-code those, you can just remove that segment of code without breaking anything in either the location. At present, the colors match the FS3 colors. You'll also get my full muted rainbow colors! BONUS!
 
 ## Custom Character Card
-To add the character card update, you will need to go into the shell, and add the char code to this directory: ares-webportal/app/templates/components/char-card-custom.hbs
+To add the character card update, you will need to go into the shell, and add the char code to this directory: `ares-webportal/app/templates/components/char-card-custom.hbs`
